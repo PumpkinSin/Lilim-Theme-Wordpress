@@ -5,11 +5,7 @@
             <p>Powered by WordPress</p>
         </div>
         <div class="footer__right">
-            <p>Follow me on <a href="https://twitter.com/Akiba_Rika" target="_blank">Twitter</a>, <a
-                        href="http://weibo.com/rikatan" target="_blank">Weibo</a>, <a
-                        href="https://plus.google.com/u/0/103659577793041448146" target="_blank">Google+</a>, <a
-                        href="http://www.flickr.com/photos/akibarika/" target="_blank">Flickr</a> and <a
-                        href="http://instagram.com/akibarika" target="_blank">Instagram</a>.</p>
+            <p>Follow me on <a href="http://weibo.com/pumpkinsin" target="_blank">Weibo</a>, <a>.</p>
         </div>
     </div>
 </footer>
