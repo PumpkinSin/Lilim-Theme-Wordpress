@@ -1,8 +1,8 @@
 <footer class="footer">
     <div class="footer__inner">
         <div class="footer__left">
-            <p>Happy New Year 2017! Made with <span class="heart"><3</span> in Theme <span>Lilim</span>.</p>
-            <p>Powered by WordPress</p>
+            <p>2018新年快乐! 本站主题由<a href="https://github.com/akibarika/Lilim-Theme-Wordpress/releases" target="_blank">Lilim</a>修改而来</p>
+            <p>援力来自WordPress</p>
         </div>
         <div class="footer__right">
             <p>Follow me on <a href="https://twitter.com/PumpkinSinSin" target="_blank">Twitter</a>, <a
