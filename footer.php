@@ -5,7 +5,8 @@
             <p>Powered by WordPress</p>
         </div>
         <div class="footer__right">
-            <p>Follow me on <a href="http://weibo.com/pumpkinsin" target="_blank">Weibo</a>, <a>.</p>
+            <p>Follow me on <a href="https://twitter.com/PumpkinSinSin" target="_blank">Twitter</a>, <a
+                        href="http://weibo.com/pumpkinsin" target="_blank">Weibo</a>, <a>.</p>
         </div>
     </div>
 </footer>
