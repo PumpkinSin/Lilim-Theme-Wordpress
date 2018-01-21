@@ -1,0 +1,43 @@
+@keyframes moveRight {
+  to {
+    .translateX(40px);
+  }
+}
+
+@keyframes moveLeft {
+  to {
+    .translateX(-40px);
+  }
+}
+
+@keyframes heartbeat {
+  0% {
+    .scale(0.9);
+  }
+  9% {
+    .scale(1.2);
+  }
+  18% {
+    .scale(0.9);
+  }
+  25% {
+    .scale(1);
+  }
+  100% {
+    .scale(1);
+  }
+}
+
+@keyframes a-ripple {
+  0% {
+    opacity : 0;
+  }
+  25% {
+    opacity : 1;
+  }
+  100% {
+    width          : 200%;
+    padding-bottom : 200%;
+    opacity        : 0;
+  }
+}
