@@ -58,7 +58,7 @@
                 if (is_user_logged_in()) {
                     ?><a href="<?php echo $url = admin_url(); ?>" title="Admin"><span>Harem</span></a><?php
                 } else {
-                    ?><a href="<?php echo wp_login_url(); ?>" title="Login"><span>Entrance</span></a><?php
+                    ?><a href="<?php echo wp_login_url(); ?>" title="Login"><span>PumpkinSin</span></a><?php
                 }
                 ?>
                 <div class="header__item--login__wrapper">
