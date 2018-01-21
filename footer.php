@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="footer__inner">
         <div class="footer__left">
-            <p>2018新年快乐! 本站主题由<a href="https://github.com/akibarika/Lilim-Theme-Wordpress/releases" target="_blank">Lilim</a>修改而来</p>
+            <p>2018新年快乐! 本站主题由<a href="https://github.com/akibarika/Lilim-Theme-Wordpress/releases" target="_blank"><span>Lilim</span></a>修改而来</p>
             <p>援力来自WordPress</p>
         </div>
         <div class="footer__right">

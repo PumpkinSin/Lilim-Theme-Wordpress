@@ -51,7 +51,7 @@
                 <svg class="icon icon-magnifying-glass">
                     <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#magnifying-glass"></use>
                 </svg>
-                <span class="text">Looking for Something?</span>
+                <span class="text">您在寻找什么宝藏吗？</span>
             </div>
             <div class="header__item header__item--login">
                 <?php
@@ -73,7 +73,7 @@
                 <?php if (is_home()): ?>
                     <h1>未来<span>已来</span></h1>
                 <?php else: ?>
-                    Akiba<span>Rika</span>
+                    未来<span>已来</span>
                 <?php endif ?>
             </a>
         </div>
