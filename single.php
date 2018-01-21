@@ -49,7 +49,6 @@
 									4.0</a>. </span>
 						</div>
 					</div>
-					<?php get_template_part( 'share' ); ?>
 					<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800">
 						<defs>
 							<filter id="goo">
